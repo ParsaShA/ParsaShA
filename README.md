@@ -1,44 +1,70 @@
+<div align="center">
+  <!-- هدر گرافیکی سفارشی (یک نمونه از تصویر بالا) -->
+  <!-- نکته: شما باید یک تصویر (مثلا تصویر تولید شده بالا) را میزبانی کرده و لینک آن را اینجا قرار دهید -->
+  <img src="https://via.placeholder.com/1000x200?text=MEBNO+PROFILE" alt="Mebno Profile Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <br>
 
-<h1 align="center">Hi 👋, I'm Parsa Shakibaei </h1>
-<h3 align="center">A passionate AI Researcher, Data Scientist, and Industrial Engineering Master's Student</h3>
+  <!-- کارت تایپ متحرک (readme-typing-svg) -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=13FFFF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Mebno;AI+Researcher;Data+Scientist;Reinforcement+Learning+%26+OR." alt="Typing SVG" />
+  </a>
+  <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+  <!-- شمارشگر بازدیدکنندگان با تم آبی متناسب -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=13FFFF&style=flat-square" alt="visitor counter" style="margin-bottom: 10px;" />
+</div>
 
+---
+
+### 🔭 | **I'm currently focused on...**
+
+- 🧪 **Multi-Agent Reinforcement Learning (MAPPO)** and its application in **Supply Chain Optimization**.
+- 🛡️ Advanced security with **Phishing URL Detection** models.
+- 💡 Exploring novel AI architectures like **VMamba** and **Diffusion Models**.
+- 🌀 Investigating **Quantum Computing (Qiskit)** interfaces.
+
+---
+
+### 🛠️ | **Core Tech Stack**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+</div>
+
+---
+
+### 📊 | **GitHub Impact**
+
+<!-- کارت‌های آماری گیت‌هاب با چیدمان کنار هم و تم Radical -->
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" style="border-radius: 10px;"/>
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=10" alt="Top Languages" width="48%" style="border-radius: 10px;"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 | **Contribution History**
 
-- 🔭 I’m currently working on **Multi-Agent Reinforcement Learning (MAPPO), Phishing URL Detection, and Supply Chain Optimization.**
-- 🌱 I’m currently learning **Advanced Deep Learning architectures (VMamba, Diffusion Models) and Quantum Computing (Qiskit).**
-- 👯 I’m looking to collaborate on **Applied Machine Learning, Optimization modeling (OR-Tools, PuLP), and Data Science projects.**
-- 💬 Ask me about **Python, PyTorch, Reinforcement Learning, MCDM methodologies, and Operations Research.**
-- 📫 How to reach me: **[Add your email or leave this blank to direct to socials]**
-- ⚡ Fun fact: **I love exploring the intersection of game theory, combative sports (Judo/Kickboxing), and strategic decision-making!**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+<!-- نمودار مشارکت ماری (Contribution Snake Animation) -->
+<!-- نکته: شما باید یک اکشن گیت‌هاب (GitHub Action) تنظیم کنید تا این فایل گیف را روزانه تولید کند -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📫 | **Let's Connect**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</div>
