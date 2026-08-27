@@ -41,16 +41,18 @@
 </div>
 
 ---
-
 ### 📊 | **GitHub Impact**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParsaShA&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" style="border-radius: 10px;"/>
-  &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaShA&layout=compact&theme=radical&langs_count=10" alt="Top Languages" width="48%" style="border-radius: 10px;"/>
+  <a href="https://github.com/ParsaShA">
+    <img src="https://github-readme-stats.vercel.app/api?username=ParsaShA&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  </a>
 </p>
-
----
+<p align="center">
+  <a href="https://github.com/ParsaShA">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaShA&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  </a>
+</p>
 
 ### 📫 | **Let's Connect**
 
